@@ -2,6 +2,9 @@
 
 This is a calculator app built with React.js and containerized using Docker.
 
+![Calculator App Demo](https://github.com/divyanshparakh/react-calc/blob/master/Calculator.gif)
+
+
 ## Table of Contents
 
 - [Calculator App](#calculator-app)
@@ -33,7 +36,7 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/calculator-app.git
+   git clone https://github.com/divyanshparakh/react-calc.git
 
 
 ## Available Scripts
